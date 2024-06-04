@@ -1,4 +1,4 @@
-# Car_sellingprice_prediction
+# Car_Sellingprice_prediction
 
 # Objective:-
 
@@ -15,3 +15,6 @@ The "Car-sellingprice-prediction" project leverages machine learning techniques 
 5. Prediction: Using the best-performing model to predict the selling prices of cars, providing users with an estimated market value based on the input features.
 
 By accurately predicting car selling prices, this project aims to enhance the transparency and efficiency of the car buying and selling process, benefiting both individual consumers and businesses in the automotive market.
+# Contact:-
+Linkedin : https://www.linkedin.com/in/jainil-gohel
+Email : jainilgohel01@gmail.com
